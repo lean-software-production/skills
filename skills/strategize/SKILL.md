@@ -1,6 +1,6 @@
 ---
 name: strategize
-description: Help a small group collaboratively develop and maintain Karl Scotland's TASTE X-Matrix components before drawing the matrix.
+description: Facilitate collaborative Hoshin Kanri strategy development and review, using Karl Scotland's TASTE X-Matrix to align direction, choices, evidence, and action.
 ---
 
 # Strategize
